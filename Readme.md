@@ -8,8 +8,8 @@
 
   </a>
   
-  <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2/fork">
-    <img src="https://img.shields.io/github/forks/MoTechYT/Pro-Auto-Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/arjunsangu/PRO-FILTER-BOT-V2/fork">
+    <img src="https://img.shields.io/github/forks/arjunsangu/PRO-FILTER-BOT-V2?label=Fork&style=social">
 
   </a>  
 </p>
